@@ -9,7 +9,7 @@ redirect_from:
 ---
 Thank you for visiting my personal webpage!
 
-I am a PhD candidate in Economics at Boston University. My research interests include Development Economics, Labor Economics, and Urban Economics. In my recent project, I evaluate the impacts of reforms on population mobility controls on migration and housing market. In my other work, I study whether migrants land jobs with better worker benefits via network.
+I am a PhD candidate in Economics at Boston University. My research interests include Labor Economics, Development Economics, and Urban Economics. My job market estimates mating prefereces in China with a structural model. In another project, I evaluate the impacts of reforms in population mobility controls on migration and housing market. In my other work, I study whether migrants land jobs with better worker benefits via network.
 
 
  You can contact me at xcgao@bu.edu
