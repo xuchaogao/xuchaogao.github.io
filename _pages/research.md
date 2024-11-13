@@ -24,6 +24,6 @@ Work in progress
 
 ***
 
-<b> Network job and worker benefits of rural urban migrants in China.</b>
+<b> Network job and worker benefits of rural urban migrants in China.</b> Draft available upon request.
 
 Despite the rise in rural-urban migration since the 1980s, many migrants remain unaware of or are denied labor benefits to which they are entitled. The lack of transparency about worker benefits and the high mobility of the migrant workforce may exacerbate this situation. Using Chinese rural-urban migration data, this paper studies whether jobs obtained through social networks provide better worker benefits. My results suggest that network jobs tend to be associated with worse benefits. I discuss the potential explanations for this pattern. Furthermore, I find that migrants' decision to stay in urban areas is influenced more by housing benefits than other forms of worker benefits.
