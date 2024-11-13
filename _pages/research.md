@@ -5,14 +5,22 @@ permalink: /research/
 author_profile: true
 ---
 
-Work in progress
+Working papers
 ------
+***
+<b>Single by Choice or Rejection? Evidence on Mating Preferences in China. (Job Market Paper) </b> Draft
+Some common mating preferences fail to rationalize the matching patterns observed in the Chinese marriage where women’s single rates increase in education attain- ment but in contrast, more educated men are less likely to be single. I propose a utility model that allows testing for the intensity of traditional gender norms, specifically their preferences over a marriage with the wife being more educated. Based on the estimation with 2010 Census data from China, I find that that both men and women do not like the woman being more educated in the marriage, al- though men’s distaste is more intense. The distastes from both genders shape the single rate patterns. Removing the aversion from either side would greatly reduce the single rates but implications on matching depend on which side abandons the aversion. Additionally, the shift in education distribution alone well explains the rising singles rates of the least education men but not for the most educated women.
 
 ***
 <b> The impacts of population mobility controls on housing prices: Evidence from the 2014
-household registration reform in China. </b>  (Job Market Paper) Draft Coming soon.
+household registration reform in China. </b>  Draft
 
-Household registration system (Hukou system) as a mobility control instrument in China largely restricts individuals’ access to social welfare system out of their hometown, making it costly and inconvenient for migrants to live in the hosting cities in the long term. Majority of the migrants do not consider purchase houses where they work without a Hukou. In this paper, I study the effects of 2014 Hukou reform, a major household registration relaxation, on housing prices in the urban area. Using apartment complex level housing data, I find that the implementation of the reform lead to an increase in prices of lower-quality residential properties while those of higher quality experience negative shocks. This is consistent with the findings in previous literature that more migrant workers move to places where controls are relaxed, which spur demands for basic housing. I further supplement the findings and investigate potential mechanisms using household survey data.
+The household registration system (Hukou system) in China largely restricts individuals’ access to the social welfare system outside their hometown. This makes it costly and inconvenient for migrants to live in the receiving cities. Most migrants do not consider purchasing a house where they work if they cannot obtain local Hukou. In this paper, I study the effects of a 2014 Hukou reform on urban housing prices. The reform significantly relaxed the registration system, making it more feasible for migrants to purchase housing. Using housing data at the apartment complex level, I find that the reform increased prices of lower-quality residential properties while lowering those of higher quality. This is consistent with prior findings that more migrant workers move to places where controls are relaxed, which spurs demand for basic housing but may suggest some native flight at the upper end.
+
+
+
+Work in progress
+------
 
 ***
 
