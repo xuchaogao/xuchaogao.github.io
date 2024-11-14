@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](https://xuchaogao.github.io/files/Gao,Xuchao.Academic_CV.pdf).
+You can download my CV [here](https://xuchaogao.github.io/files/CV_Xuchao_Gao_updated3.pdf).
 
 <!-- Education
 ======
