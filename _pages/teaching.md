@@ -11,3 +11,5 @@ author_profile: true
 * Teaching Fellow, Introductory Microeconomics Analysis, Department of Economics, Boston University, Fall 2021, Summer 2023
 * Teaching Fellow, Introductory Macroeconomics Analysis, Department of Economics, Boston University, Summer 2022, Summer 2023
 * Academic Tutor, Introductory Microeconomics Analysis, Duke University, Summer 2017
+
+Teaching evaluations available upon request.
