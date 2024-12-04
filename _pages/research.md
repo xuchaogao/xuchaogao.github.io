@@ -11,7 +11,9 @@ Working papers
 <b>Single by Choice or Rejection? Evidence on Mating Preferences in China. (Job Market Paper) </b> [Draft](https://xuchaogao.github.io/files/matching_draft.pdf).
 
 In China, the marriage rate increases with education for men but decreases for women. However, we observe positive assortative matching, as in most countries. This pattern is inconsistent with some simple models of marital matching. If there were strict educational homogamy, highly educated women would have high marriage rates because they would be on the short side of the market. If everyone preferred the most skilled mate, low-education men but not high-education women would have low marriage rates. If women preferred high-skill spouses but men preferred low-skill spouses, we would not observe positive assortative mating.
+
 In this paper, I ask what preferences can explain the observed mating pattern for individuals born between 1972 and 1975. I allow their utility from marrying to depend on their education and their spouse’s education. The utility function allows for a discrete jump and different slope if the wife’s education exceeds the husband’s. In addition, each person has an idiosyncratic preference for each potential spouse. I assume utility is nontransferable and solve the equilibrium assuming a deferred acceptance algorithm.
+
 I find that men, particularly those with low education, are strongly averse to marrying more educated women. In contrast, women’s preferences with respect to their spouse’s education are more or less flat. The model fits the high single rate among low-education men and high-education women. Moreover, when I predict earlier cohorts' marriage rates, I closely fit the pattern for low-education men but not high-education women. This suggests that some important change in tastes or matching technology played a significant role in the decrease in marriage among these women.
 
 
