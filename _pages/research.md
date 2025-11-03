@@ -18,15 +18,14 @@ I find that women are strongly averse to marrying less-educated men. In contrast
 
 
 ***
-<b> The impacts of population mobility controls on housing prices: Evidence from the 2014
-household registration reform in China. </b> [Draft](https://xuchaogao.github.io/files/reform.pdf).
+<b> The impacts of population mobility controls on the housing market: Evidence from the 2014 household registration reform in China. </b> [Draft](https://xuchaogao.github.io/files/reform.pdf).
 
 The household registration system (Hukou system) as a mobility control instrument in China largely restricts individuals’ access to the social welfare system outside their hometown, making it costly and inconvenient for migrants to live long-term in host cities. Without local Hukou, most migrants will not consider purchasing houses where they work. In this paper, I study the effects of the 2014 Hukou reform on housing prices. Using apartment-complex-level housing data, I find
 that the implementation of the reform increased prices for lower-quality residential properties, while those of higher quality experienced negative shocks. This is consistent with findings in previous literature that more migrant workers move to places where controls are relaxed, spurring demand for basic housing.
 
 ***
 
-<b> Network job and worker benefits of rural urban migrants in China. </b> [Draft](https://xuchaogao.github.io/files/benefits.pdf).
+<b> Worker Benefits of Rural Urban Migrants in China. </b> [Draft](https://xuchaogao.github.io/files/benefits.pdf).
 
 Despite the rise in rural-urban migration since the 1980s, many migrants in China remain without access to formal worker benefits. Using panel data from the 2008-2009 RUMiC survey, this paper examines how job search methods affect benefit provision among rural-urban migrants. Comparing cross-sectional and fixed effects approaches, I find that apparent negative associations between network job search and formal benefits largely reflect worker selection rather than causal effects. Most relationships disappear when controlling for individual fixed effects, indicating that workers who rely on networks are negatively selected. The exception is pension benefits, where network job search maintains a significant negative effect, suggesting network-based hiring genuinely channels workers into jobs that avoid long-term benefit obligations. These findings reveal that networks primarily matter through selection rather than direct causal effects.
 
