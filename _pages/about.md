@@ -9,10 +9,12 @@ redirect_from:
 ---
 Thank you for visiting my personal webpage!
 
-I am a PhD candidate in Economics at Boston University. My research interests include Labor Economics, Development Economics, and Urban Economics. My job market paper estimates mating prefereces in China with a structural model. In another project, I evaluate the impacts of reforms in population mobility controls on migration and housing market. In my other work, I study whether migrants land jobs with better worker benefits via network.
+I am a Postdoctoral Fellow in Economics at Southern Methodist University. I received my Ph.D. in economics from Boston University in 2025. 
+
+My research studies how institutions, policies, and social networks shape outcomes in marriage markets, labor markets, and spatial mobility, using structural and reduced-form approaches.
 
 
- You can contact me at xcgao@bu.edu
+ You can contact me at xuchaog@smu.edu or xcgao@bu.edu
 
 
 
