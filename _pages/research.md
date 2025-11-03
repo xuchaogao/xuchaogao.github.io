@@ -18,7 +18,7 @@ I find that women are strongly averse to marrying less-educated men. In contrast
 
 
 ***
-<b> The impacts of population mobility controls on the housing market: Evidence from the 2014 household registration reform in China. </b> [Draft](https://xuchaogao.github.io/files/reform.pdf).
+<b> The Impacts of Population Mobility Controls on the Housing Market: Evidence from the 2014 Household Registration Reform in China. </b> [Draft](https://xuchaogao.github.io/files/reform.pdf).
 
 The household registration system (Hukou system) as a mobility control instrument in China largely restricts individuals’ access to the social welfare system outside their hometown, making it costly and inconvenient for migrants to live long-term in host cities. Without local Hukou, most migrants will not consider purchasing houses where they work. In this paper, I study the effects of the 2014 Hukou reform on housing prices. Using apartment-complex-level housing data, I find
 that the implementation of the reform increased prices for lower-quality residential properties, while those of higher quality experienced negative shocks. This is consistent with findings in previous literature that more migrant workers move to places where controls are relaxed, spurring demand for basic housing.
