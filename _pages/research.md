@@ -37,4 +37,4 @@ Government Funding, University Innovation on Local Economic Growth,” with Dani
 
 Book chapters
 ------
-Policy-based Evidence Making, in preparation for Handbook of Labor, Human Resources and Population Economics, ed. Klaus F. Zimmermann, Springer Nature, with Daniel Millimet and Shuo Qi
+Policy-based Evidence Making, forthcoming at Handbook of Labor, Human Resources and Population Economics, ed. Klaus F. Zimmermann, Springer Nature, with Daniel Millimet and Shuo Qi
