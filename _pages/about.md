@@ -9,12 +9,12 @@ redirect_from:
 ---
 Thank you for visiting my personal webpage!
 
-I am a Postdoctoral Fellow in Economics at Southern Methodist University. I received my Ph.D. in economics from Boston University in 2025. 
+I am an applied microeconomist. I served as a Postdoctoral Fellow in Economics at Southern Methodist University (2025-2026). I received my Ph.D. in economics from Boston University in 2025. 
 
 My research studies how institutions, policies, and social networks shape outcomes in marriage markets, labor markets, and spatial mobility, using structural and reduced-form approaches.
 
 
- You can contact me at xuchaog@smu.edu or xcgao@bu.edu
+ You can contact me at xcgao721@gmail.com or xcgao@bu.edu.
 
 
 
